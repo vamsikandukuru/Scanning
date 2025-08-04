@@ -23,7 +23,8 @@
 -xsltproc - used to convert the .xml file into .html
 
 ## Files 
-- 'scan.html' - Human-readale HTML generated from XML.
+- 'scan.PDF' - Human-readale HTML generated from XML.
+
 
 
 
