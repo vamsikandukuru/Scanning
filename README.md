@@ -23,8 +23,8 @@
 -xsltproc - used to convert the .xml file into .html
 
 ## Files 
-- 'scan.PDF' - Human-readale HTML generated from XML.
-
+- 'scan.html' - Human-readale HTML generated from XML.
+- 'scan.pdf' - Download the report in pdf format.
 
 
 
